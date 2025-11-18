@@ -1,10 +1,6 @@
 # Analysis-with-Pandas
 A practical Pandas-based data analysis project showcasing how to load, explore, clean, transform, and analyze datasets using Python. Ideal for beginners and anyone looking to understand core data manipulation techniques with Pandas.
 
-# Analysis with Pandas
-
-This repository contains **Analysis with Pandas**, a practical project designed to help users perform efficient data analysis using the powerful **Pandas** library.
-
 ## 📘 Overview
 
 The project demonstrates step-by-step how to load, explore, clean, transform, and analyze datasets using Pandas. It is ideal for:
